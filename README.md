@@ -11,7 +11,7 @@ we can run all the funcationality of the main contract student.We can also deplo
 we can run any function of student by just passing the id of the student through Dashboard contract.
 
 
-Adresses On Ropsten TestNet:
+Addresses On Ropsten TestNet:
 
 Factory:0x02effc04945fe51791e2ce2c371b0cef6d5331e1
 
